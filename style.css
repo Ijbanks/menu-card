@@ -30,8 +30,17 @@ button{
     cursor: pointer;
 }
 
+button:hover{
+    background-color: lightcoral;
+}
+
 #menu-text {
 white-space: pre-line;
 background-color:aliceblue;
 color: black;
+}
+
+p{
+    text-align: center;
+
 }
