@@ -1,0 +1,37 @@
+body{
+    background-color: grey;
+    font-family:cursive;
+    max-width: 40rem;
+    margin: 40px auto;
+}
+
+h1{
+    color:brown;
+    text-align:center;
+}
+
+form{
+    background-color:lightgrey;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+textarea{
+    width: 100%;
+}
+
+button{
+    background-color: brown;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#menu-text {
+white-space: pre-line;
+background-color:aliceblue;
+color: black;
+}
